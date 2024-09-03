@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
 
   s.author           = { 'AlejandroEFX' => 'alejandro.villalobos1@equifax.com' }
-  s.source           = { :git => 'https://github.com/Kount/kount-cocoa-pods-source.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/bruno-centanaro/kount-cocoa-pods-source-expo-compatible.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.vendored_frameworks = 'xcframeworks/KountDataCollector.xcframework'
